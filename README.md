@@ -1,5 +1,3 @@
-$Id: README,v 1.3 2004/11/14 02:36:28 tang Exp $
-
 fickle 2.04 by Jason Tang (tang@jtang.org)
 
 This is a scanner generator program much like flex(1) is to C.  If you
